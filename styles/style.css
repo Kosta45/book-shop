@@ -240,11 +240,13 @@ a {
   line-height: 150%;
   color: #f8fdfe;
   margin-block: 16px 32px;
+  cursor: pointer;
 }
 
 .product-btn-accent {
   background-color: #4d762d;
   min-width: 242px;
+  cursor: pointer;
 }
 
 .footer {
